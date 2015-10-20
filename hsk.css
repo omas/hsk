@@ -1,0 +1,23 @@
+@charset "UTF-8";
+main {}
+article {
+  width:420px;
+  height:125px;
+  padding-left: 10px;
+  margin-left:10px;
+}
+
+article.l1{display:block;}
+article.l2{display:block;}
+article.l3{display:block;}
+article.l4{display:block;}
+
+section {
+  border:solid 1px black;
+}
+section > header > h1 {
+    margin: 0 0 1em;
+    padding: 0.5em;
+    border-left: 20px solid #B92A2C;
+    border-bottom: 1px dashed #B92A2C;
+}
