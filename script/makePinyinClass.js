@@ -72,15 +72,15 @@ var toneTable = {
   var fn = (function(data) {
     return function(tone) {
       return data.filter(function(v) {
-        return v[7] === tone && v[0] != '4';
+        return v[7] === tone;// && v[0] != '4';
       }).join('\n')
     };
   })(lines);
 
   var result = [];
   for (var tone in toneTable) {
-    result.push('');
-    result.push(toneTable[tone]);
+//    result.push([,,,,,,,,])
+//    result.push([toneTable[tone],,,,,,,]);
     result.push(fn(toneTable[tone]));
   }
 

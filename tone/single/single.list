@@ -1,0 +1,5 @@
+ln -s ../all/tone.001.csv .
+ln -s ../all/tone.002.csv .
+ln -s ../all/tone.003.csv .
+ln -s ../all/tone.004.csv .
+ln -s ../all/tone.005.csv .

@@ -1,10 +1,11 @@
 @charset "UTF-8";
+
 main {}
 article {
-  width:420px;
-  height:125px;
-  padding-left: 10px;
-  margin-left:10px;
+  width:180px;
+  height:105px;
+  padding-left:10px;
+  border-top:dashed 1px black;
 }
 
 article.l1{display:block;}
@@ -13,11 +14,12 @@ article.l3{display:block;}
 article.l4{display:block;}
 
 section {
-  border:solid 1px black;
+  margin-bottom: 5px;
 }
-section > header > h1 {
-    margin: 0 0 1em;
+section > header > h2 {
+    margin: 0 0 0.5em;
     padding: 0.5em;
+    border-top:2px solid #B92A2C;
     border-left: 20px solid #B92A2C;
-    border-bottom: 1px dashed #B92A2C;
+    border-bottom: 1px double #B92A2C;
 }

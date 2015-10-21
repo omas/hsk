@@ -5,7 +5,7 @@
 
     return data.map(function(v) {
       var d = v.split(',');
-      return d[0] + ' /// ' + d[1].replace(/\s+/g, "") + ' \\ ' + d[2];
+      return d[2] + ' /// ' + d[6].replace(/\s+/g, "") + ' \\ ' + d[5];
     }).join('\n');
 
   }(lines

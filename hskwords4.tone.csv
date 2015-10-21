@@ -1,5 +1,3 @@
-
-1
 1,3897,八,bā,数,八,ba1,1
 3,4125,班,bān,名,クラス,ba1n,1
 3,4126,搬,bān,動,運ぶ 引っ越しする,ba1n,1
@@ -73,8 +71,6 @@
 4,,只,zhī,量,…匹（小動物 昆虫 ペアの片割れ）,zhi1,1
 4,,猪,zhū,名,豚,zhu1,1
 4,,租,zū,動,貸す（有料で） （金を払って）借りる,zu1,1
-
-2
 2,35,白,bái,形,白い,ba2i,2
 2,36,别,bié,副,…してはいけない,bie2,2
 3,62,才,cái,副,いま…したばかり やっと,ca2i,2
@@ -142,8 +138,6 @@
 3,139,云,yún,名,雲,yu2n,2
 2,4108,圆,yuán,形,丸い,yua2n,2
 4,,元,yuán,量,通貨の単位 元,yua2n,2
-
-3
 3,4122,矮,ǎi,形,低い（背丈が）,a3i,3
 3,10349,把,bǎ,量,…把（取っ手 柄のあるものを数える）,ba3,3
 2,4011,百,bǎi,数,百,ba3i,3
@@ -226,8 +220,6 @@
 3,4309,种,zhǒng,名,種 種子,zho3ng,3
 2,10347,走,zǒu,動,歩く 移動する,zo3u,3
 4,,嘴,zuǐ,名,口,zui3,3
-
-4
 1,3896,爱,ài,動,愛する （行い 状態を）好む,a4i,4
 4,,暗,àn,形,暗い,a4n,4
 3,4128,半,bàn,数,半分 ２分の１,ba4n,4
@@ -356,8 +348,6 @@
 1,4009,坐,zuò,動,坐る,zuo4,4
 1,4010,做,zuò,動,作る （仕事などを）する,zuo4,4
 4,,座,zuò,量,…台（大型で 固定した物を数える）,zuo4,4
-
-5
 3,55,啊,a,感,感嘆詞（文末 感嘆の語気）,a5,5
 2,34,吧,ba,感,感嘆詞（語気をやわらげる）,ba5,5
 3,70,地,de,名,土地 地面,de5,5
@@ -366,11 +356,8 @@
 1,3943,了,le,助,助詞（動作の完了・実現）,le5,5
 1,10,吗,ma,感,感嘆詞（文末 疑問の語気）,ma5,5
 1,15,呢,ne,感,感嘆詞（文末 疑問・確認）,ne5,5
-Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,呀,ya,感,感嘆詞（文末 [a]の変化したもの）,ya5,5
 2,4115,着,zhe,助,助詞（動作の持続・進行）,zhe5,5
-
-11
 3,4136,冰箱,bīng xiāng,名,冷蔵庫,bi1ng xia1ng,11
 4,,参观,cān guān,動,参観する 見学する,ca1n gua1n,11
 3,4138,参加,cān jiā,動,参加する,ca1n jia1,11
@@ -413,8 +400,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 3,4300,应该,yīng gāi,能,当然…すべきである,yi1ng ga1i,11
 4,,增加,zēng jiā,動,増える 増やす,ze1ng jia1,11
 3,141,中间,zhōng jiān,名,中間 あいだ,zho1ng jia1n,11
-
-12
 3,4121,阿姨,ā yí,名,おばさん 母の姉妹,a1 yi2,12
 4,,安排,ān pái,動,段取りをする,a1n pa2i,12
 4,,安全,ān quán,形,安全である,a1n qua2n,12
@@ -457,8 +442,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 3,4308,终于,zhōng yú,副,ついに,zho1ng yu2,12
 4,,周围,zhōu wéi,名,まわり 周囲,zho1u we2i,12
 4,,专门,zhuān mén,名,専門,zhua1n me2n,12
-
-13
 3,4135,宾馆,bīn guǎn,名,ホテル,bi1n gua3n,13
 4,,标准,biāo zhǔn,名,標準,bia1o zhu3n,13
 1,3916,多少,duō shǎo,代,いくら（数量を問う） いくらか（不定の数量）,duo1 sha3o,13
@@ -488,8 +471,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,优点,yōu diǎn,名,利点 優れている所,yo1u dia3n,13
 4,,增长,zēng zhǎng,動,成長する 増大する,ze1ng zha3ng,13
 1,4005,中午,zhōng wǔ,名,正午 昼,zho1ng wu3,13
-
-14
 3,4124,安静,ān jìng,形,静かである,a1n ji4ng,14
 2,4012,帮助,bāng zhù,動,助ける 援助する,ba1ng zhu4,14
 4,,包括,bāo kuò,動,含む 包含する,ba1o kuo4,14
@@ -561,8 +542,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 3,4311,周末,zhōu mò,名,週末 ウィークエンド,zho1u mo4,14
 4,,专业,zhuān yè,名,専攻 専門,zhua1n ye4,14
 4,,尊重,zūn zhòng,動,尊重する,zu1n zho4ng,14
-
-15
 1,3899,杯子,bēi zi,名,コップ さかずき,be1i zi5,15
 4,,窗户,chuāng hu,名,窓,chua1ng hu5,15
 3,4148,聪明,cōng ming,形,聡明である 賢い,co1ng ming5,15
@@ -584,8 +563,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 1,3998,衣服,yī fu,名,服,yi1 fu5,15
 4,,知识,zhī shi,名,知識,zhi1 shi5,15
 1,4007,桌子,zhuō zi,名,机 テーブル,zhuo1 zi5,15
-
-21
 4,,长江,Cháng jiāng,名固,長江,Cha2ng jia1ng,21
 4,,成功,chéng gōng,動,成功する,che2ng go1ng,21
 4,,重新,chóng xīn,副,新たに もう一度,cho2ng xi1n,21
@@ -619,8 +596,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,原因,yuán yīn,名,原因,yua2n yi1n,21
 4,,直接,zhí jiē,形,直接の 直に,zhi2 jie1,21
 1,4008,昨天,zuó tiān,名,昨日,zuo2 tia1n,21
-
-22
 4,,长城,Cháng chéng,名固,長城 万里の長城,Cha2ng che2ng,22
 4,,诚实,chéng shí,形,誠実な,che2ng shi2,22
 4,,成熟,chéng shú,形,成熟した 熟する,che2ng shu2,22
@@ -658,8 +633,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,由于,yóu yú,接,[介]…によって [接]…なので,yo2u yu2,22
 4,,原来,yuán lái,形,もとの 元通りの,yua2n la2i,22
 3,4307,着急,zháo jí,動,焦る いらいらする,zha2o ji2,22
-
-23
 4,,词典,cí diǎn,名,辞典,ci2 dia3n,23
 3,66,词语,cí yǔ,名,字句 語句,ci2 yu3,23
 3,77,而且,ér qiě,接,そのうえ,e2r qie3,23
@@ -673,8 +646,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,提醒,tí xǐng,動,気づかせる （忘れないように）注意する,ti2 xi3ng,23
 4,,停止,tíng zhǐ,動,停止（する）,ti2ng zhi3,23
 2,4106,游泳,yóu yǒng,動,水泳する,yo2u yo3ng,23
-
-24
 4,,博士,bó shì,名,博士,bo2 shi4,24
 4,,不但,bú dàn,接,…ばかりでなく,bu2 da4n,24
 4,,不过,bú guò,接,しかし けど,bu2 guo4,24
@@ -738,8 +709,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,植物,zhí wù,名,植物,zhi2 wu4,24
 4,,职业,zhí yè,名,職業,zhi2 ye4,24
 4,,逐渐,zhú jiàn,副,しだいに だんだんと,zhu2 jia4n,24
-
-25
 3,60,鼻子,bí zi,名,鼻,bi2 zi5,25
 3,61,别人,bié ren,名,他人 ひと様 ほかの人一般,bie2 ren5,25
 3,64,除了,chú le,介,…以外は …を除いて,chu2 le5,25
@@ -768,8 +737,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 3,4288,爷爷,yé ye,名,祖父（父方の）,ye2 ye5,25
 4,,咱们,zán men,代,自分たち（聞き手を含める）,za2n men5,25
 4,,值得,zhí de,動,値打ちがある,zhi2 de5,25
-
-31
 3,58,北方,běi fāng,名,北方,be3i fa1ng,31
 1,3900,北京,Běi jīng,名固,北京,Be3i ji1ng,31
 4,,饼干,bǐng gān,名,ビスケット,bi3ng ga1n,31
@@ -794,8 +761,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,演出,yǎn chū,動,上演する,ya3n chu1,31
 2,4101,已经,yǐ jīng,副,すでに,yi3 ji1ng,31
 4,,组织,zǔ zhī,動,組織する,zu3 zhi1,31
-
-32
 4,,本来,běn lái,副,本来（は）,be3n la2i,32
 4,,表达,biǎo dá,動,表現 表明（する）,bia3o da2,32
 4,,表格,biǎo gé,名,表,bia3o ge2,32
@@ -832,8 +797,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,准时,zhǔn shí,副,時間どおりに 時間に厳格な,zhu3n shi2,32
 4,,总结,zǒng jié,動,総括する まとめる,zo3ng jie2,32
 4,,组成,zǔ chéng,動,組成 構成（する）,zu3 che2ng,32
-
-33
 3,4134,表演,biǎo yǎn,動,演じる,bia3o ya3n,33
 4,,打扰,dǎ rǎo,動,邪魔をする,da3 ra3o,33
 3,4149,打扫,dǎ sǎo,動,掃除をする,da3 sa3o,33
@@ -863,8 +826,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,允许,yǔn xǔ,動,許容（する）,yu3n xu3,33
 4,,整理,zhěng lǐ,動,整理する,zhe3ng li3,33
 4,,只好,zhǐ hǎo,副,…するより他はない やむなく,zhi3 ha3o,33
-
-34
 4,,保护,bǎo hù,動,保護（する）,ba3o hu4,34
 4,,保证,bǎo zhèng,動,保証（する）,ba3o zhe4ng,34
 3,10350,比较,bǐ jiào,動,比較する,bi3 jia4o,34
@@ -922,8 +883,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,准确,zhǔn què,形,正確な,zhu3n que4,34
 4,,仔细,zǐ xì,形,仔細な 注意深い,zi3 xi4,34
 3,4313,总是,zǒng shì,副,いつも ずっと,zo3ng shi4,34
-
-35
 4,,打扮,dǎ ban,動,装う 化粧する,da3 ban5,35
 3,4160,耳朵,ěr duo,名,耳,e3r duo5,35
 4,,好处,hǎo chu,名,利点,ha3o chu5,35
@@ -943,8 +902,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 1,4003,怎么,zěn me,代,どう なぜ,ze3n me5,35
 4,,主意,zhǔ yi,名,考え 意見,zhu3 yi5,35
 2,4120,左边,zuǒ bian,名,左（の方）,zuo3 bian5,35
-
-41
 3,4132,必须,bì xū,能,…しなくてはならない,bi4 xu1,41
 3,4137,菜单,cài dān,名,メニュー お品書き,ca4i da1n,41
 2,4016,唱歌,chàng gē,動,歌をうたう,cha4ng ge1,41
@@ -970,8 +927,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,亚洲,Yà zhōu,名固,アジア,Ya4 zho1u,41
 3,132,一般,yì bān,形,同じである 普通である,yi4 ba1n,41
 3,4289,一边,yì biān,接,一方 片方,yi4 bia1n,41
-
-42
 4,,爱情,ài qíng,名,愛情,a4i qi2ng,42
 4,,按时,àn shí,副,時間どおりに,a4n shi2,42
 4,,报名,bào míng,動,申し込む,ba4o mi2ng,42
@@ -1018,8 +973,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,证明,zhèng míng,動,証明する,zhe4ng mi2ng,42
 4,,著名,zhù míng,形,著名な,zhu4 mi2ng,42
 4,,自然,zì rán,副,自然（に） 当然（に）,zi4 ra2n,42
-
-43
 3,56,办法,bàn fǎ,名,方法 やりかた,ba4n fa3,43
 2,4013,报纸,bào zhǐ,名,新聞,ba4o zhi3,43
 4,,并且,bìng qiě,接,しかも そのうえ,bi4ng qie3,43
@@ -1060,8 +1013,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 3,143,自己,zì jǐ,代,自分,zi4 ji3,43
 4,,最好,zuì hǎo,形,最もよい できるだけ…したほうがよい,zui4 ha3o,43
 4,,作者,zuò zhě,名,作者 作家 筆者,zuo4 zhe3,43
-
-44
 3,4123,爱好,ài hào,名,趣味 好み,a4i ha4o,44
 4,,按照,àn zhào,介,…によって …にもとづいて,a4n zha4o,44
 4,,报道,bào dào,名,報道 レポート,ba4o da4o,44
@@ -1151,8 +1102,6 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 4,,座位,zuò wèi,名,座席,zuo4 we4i,44
 3,4315,作业,zuò yè,名,宿題,zuo4 ye4,44
 3,4316,作用,zuò yòng,名,作用 役割 働き作用する,zuo4 yo4ng,44
-
-45
 1,3898,爸爸,bà ba,名,お父さん,ba4 ba5,45
 4,,大夫,dài fu,名,医者 お医者さん,da4i fu5,45
 2,4023,弟弟,dì di,名,弟,di4 di5,45
@@ -1194,117 +1143,47 @@ Level,MP3,Character,Pinyin,Class,Mean,Pinyin5,5
 2,4113,丈夫,zhàng fu,名,夫 主人,zha4ng fu5,45
 3,4304,照顾,zhào gu,動,世話をする 気を配る,zha4o gu5,45
 1,31,这儿,zhè r,代,ここ,zhe4 r5,45
-
-111
 1,3905,出租车,chū zū chē,名,タクシー,chu1 zu1 che1,111
-
-112
 4,,乒乓球,pīng pāng qiú,名,ピンポン,pi1ng pa1ng qiu2,112
-
-113
 4,,垃圾桶,lā jī tǒng,名,ゴミバケツ,la1 ji1 to3ng,113
-
-122
 2,4082,踢足球,tī zú qiú,動,サッカーをする,ti1 zu2 qiu2,122
-
-124
 4,,加油站,jiā yóu zhàn,名,ガソリンスタンド,jia1 yo2u zha4n,124
 4,,开玩笑,kāi wán xiào,動,冗談を言う からかう,ka1i wa2n xia4o,124
 4,,西红柿,xī hóng shì,名,トマト,xi1 ho2ng shi4,124
-
-211
 4,,研究生,yán jiū shēng,名,大学院生,ya2n jiu1 she1ng,211
-
-212
 4,,弹钢琴,tán gāng qín,動,ピアノを弾く,ta2n ga1ng qi2n,212
-
-213
 3,4268,图书馆,tú shū guǎn,名,図書館,tu2 shu1 gua3n,213
-
-215
 1,10328,没关系,méi guān xi,他,かまいません 問題ないです,me2i gua1n xi5,215
-
-224
 4,,人民币,rén mín bì,名,人民元,re2n mi2n bi4,224
-
-242
 2,4027,服务员,fú wù yuán,名,従業員（ホテルやレストランの）,fu2 wu4 yua2n,242
-
-245
 1,10327,不客气,bú kè qi,他,どういたしまして,bu2 ke4 qi5,245
 3,4292,一会儿,yí huì r,副,少しの間,yi2 hui4 r5,245
-
-251
 3,4284,行李箱,xíng li xiāng,名,トランク（車の）,xi2ng li5 xia1ng,251
-
-252
 4,,来不及,lái bu jí,動,間に合わない,la2i bu5 ji2,252
 4,,来得及,lái de jí,動,間に合う,la2i de5 ji2,252
-
-311
 4,,洗衣机,xǐ yī jī,名,洗濯機,xi3 yi1 ji1,311
-
-314
 1,3931,火车站,huǒ chē zhàn,名,鉄道の駅,huo3 che1 zha4n,314
 3,106,普通话,pǔ tōng huà,名,標準語（中国の）,pu3 to1ng hua4,314
-
-322
 2,4019,打篮球,dǎ lán qiú,動,バスケットボールをする,da3 la2n qiu2,322
 4,,羽毛球,yǔ máo qiú,名,バドミントン,yu3 ma2o qiu2,322
-
-331
 3,124,洗手间,xǐ shǒu jiān,名,お手洗い トイレ,xi3 sho3u jia1n,331
-
-343
 4,,笔记本,bǐ jì běn,名,ノート,bi3 ji4 be3n,343
-
-344
 1,3906,打电话,dǎ diàn huà,動,電話をかける,da3 dia4n hua4,344
 4,,巧克力,qiǎo kè lì,名,チョコレート,qia3o ke4 li4,344
-
-354
 1,4004,怎么样,zěn me yàng,代,どんな（性質） どう（方法） どうですか？（状況 意,ze3n me5 ya4ng,354
-
-414
 3,4127,办公室,bàn gōng shì,名,事務室,ba4n go1ng shi4,414
 4,,做生意,zuò shēng yì,動,商売をする,zuo4 she1ng yi4,414
-
-421
 2,4119,自行车,zì xíng chē,名,自転車,zi4 xi2ng che1,421
-
-424
 4,,不得不,bù dé bù,副,…しないわけにはいかない,bu4 de2 bu4,424
-
-425
 2,4086,为什么,wèi shén me,代,なぜ どうして,we4i she2n me5,425
-
-433
 4,,大使馆,dà shǐ guǎn,名,大使館,da4 shi3 gua3n,433
-
-434
 4,,放暑假,fàng shǔ jià,動,夏休みになる,fa4ng shu3 jia4,434
-
-441
 3,4306,照相机,zhào xiàng jī,名,カメラ,zha4o xia4ng ji1,441
-
-442
 4,,售货员,shòu huò yuán,名,店員 売り子,sho4u huo4 yua2n,442
-
-443
 4,,受不了,shòu bù liǎo,形,耐えられない,sho4u bu4 lia3o,443
 4,,信用卡,xìn yòng kǎ,名,クレジットカード,xi4n yo4ng ka3,443
-
-444
 4,,塑料袋,sù liào dài,名,ビニール袋,su4 lia4o da4i,444
-
-451
 4,,差不多,chà bu duō,形,ほとんど同じである だいたい,cha4 bu5 duo1,451
-
-453
 1,3914,对不起,duì bu qǐ,他,すみません,dui4 bu5 qi3,453
-
-1441
 2,4030,公共汽车,gōng gòng qì chē,名,バス,go1ng go4ng qi4 che1,1441
-
-4324
 3,4156,电子邮件,diàn zǐ yóu jiàn,名,電子メール,dia4n zi3 yo2u jia4n,4324
