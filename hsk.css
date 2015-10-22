@@ -6,15 +6,17 @@ article {
   height:105px;
   padding-left:10px;
   border-top:dashed 1px black;
+  page-break-inside:avoid;
 }
 
 article.l1{display:block;}
 article.l2{display:block;}
 article.l3{display:block;}
-article.l4{display:block;}
+article.l4{display:none;}
 
 section {
   margin-bottom: 5px;
+  page-break-before: always;
 }
 section > header > h2 {
     margin: 0 0 0.5em;
