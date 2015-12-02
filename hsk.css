@@ -20,7 +20,7 @@ section {
 }
 section > header > h2 {
     margin: 0 0 0.5em;
-    padding: 0.5em;
+    padding-left: 0.5em;
     border-top:2px solid #B92A2C;
     border-left: 20px solid #B92A2C;
     border-bottom: 1px double #B92A2C;

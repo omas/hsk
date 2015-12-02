@@ -73,18 +73,19 @@ var toneTable = {
     return function(tone) {
       return data.filter(function(v) {
         return v[7] === tone;// && v[0] != '4';
-      }).join('\n')
+      }).join('\n');
     };
   })(lines);
 
   var result = [];
+
   for (var tone in toneTable) {
 //    result.push([,,,,,,,,])
 //    result.push([toneTable[tone],,,,,,,]);
     result.push(fn(toneTable[tone]));
   }
 
- console.log(result.join('\n'));
+  console.log(result.join('\n'));
 
 }(require('fs').readFileSync('/dev/stdin', 'utf8')));
 

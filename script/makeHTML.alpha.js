@@ -1,9 +1,10 @@
 'use strict';
 var contents = (function(stdin) {
-  var lines = stdin.toString().trim().split('\n').map(function(v) {
-    return v.split(',')
-  });
   var initial = 'A';
+  var lines = stdin.toString().trim().split('\n').map(function(v) {
+    return v.split(',');
+  });
+
   return lines.map(function(line) {
     var ch = line[6].charAt(0).toUpperCase();
 
@@ -18,6 +19,7 @@ var contents = (function(stdin) {
 
 function main(contents) {
   var result = [];
+
   result.push(open());
   result.push(contents);
   result.push(close());
